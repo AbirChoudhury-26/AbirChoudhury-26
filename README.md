@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA programming,MERN Stack.**
 
-- 👯 I’m looking to collaborate on [HacktoberFest 2022.This will help me to know me more About git and its commands.](https://github.com/AbirChoudhury-      26/HacktoberFest_2022)
+- 👯 I’m looking to collaborate on [HacktoberFest 2022.This will help me to know me more About git and its commands.](https://github.com/AbirChoudhury-26/HacktoberFest_2022)
 
 - 💭 Ask me about **My hobbies,skills.**
 
